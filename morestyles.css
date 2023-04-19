@@ -80,3 +80,12 @@ img{
 ul{
     font-size: 18px;
 }
+
+.anchor{
+    text-align: center;
+    color: ivory;
+    background-color: rgb(151, 184, 172);
+    text-decoration: none;
+    padding: 10px;
+
+}
